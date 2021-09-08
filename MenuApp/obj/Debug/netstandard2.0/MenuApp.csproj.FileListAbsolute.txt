@@ -18,4 +18,3 @@ C:\Users\Ana\Desktop\Mobile Dev HW\Practica#4\MenuApp\MenuApp\obj\Debug\netstand
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#4\MenuApp\MenuApp\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#4\MenuApp\MenuApp\obj\Debug\netstandard2.0\Views\TopPlacesPagexaml.xaml.g.cs
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#4\MenuApp\MenuApp\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
-C:\Users\Ana\Desktop\Mobile Dev HW\Practica#4\MenuApp\MenuApp\obj\Debug\netstandard2.0\MenuApp.csproj.AssemblyReference.cache

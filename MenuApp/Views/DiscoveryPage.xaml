@@ -5,7 +5,7 @@
             xmlns:views="clr-namespace:MenuApp.Views" 
              Title="Discovery"
              IconImageSource="discovery.png"
-               >
+              BackgroundColor="#e6ece2">
     
     <Grid Padding="15" RowDefinitions="Auto,Auto,Auto,Auto" ColumnDefinitions="*,*" VerticalOptions="Center" ColumnSpacing="10" RowSpacing="10">
         <Label Text="Discovery" Style="{StaticResource TitleLabelStyle}"/>
