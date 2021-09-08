@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Juu9Z998u0ZmrJyQmnbvfr7GL9sQyMtWSH/e1tmRCfehrltSy4UMVK/JlfiuLeOnClgYoGC1zB5z2+32N2vkJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#4\\MenuApp\\MenuApp.iOS\\MenuApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
